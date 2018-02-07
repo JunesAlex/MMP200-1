@@ -1,0 +1,52 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="junesqorialex.bmcc.com" resolutions="1x" timestamp="1517968431386">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="32274889" ref="index:ani:mmp:vat"/>
+    <file name="index.css" crc="3891644490" ref="index"/>
+    <file name="ani.css" crc="403379427" ref="ani"/>
+    <file name="mmp.css" crc="4053951193" ref="mmp"/>
+    <file name="vat.css" crc="351961434" ref="vat"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mmp:ani:vat"/>
+    <file name="museutils.js" crc="17924269" ref="index:mmp:ani:vat"/>
+    <file name="whatinput.js" crc="86476730" ref="index:mmp:ani:vat"/>
+    <file name="museconfig.js" crc="144853533" ref="index:mmp:ani:vat"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:mmp:ani:vat"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:mmp:ani:vat"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:mmp:ani:vat"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:mmp:ani:vat"/>
+    <file name="require.js" crc="3861931657" ref="index:mmp:ani:vat"/>
+  </folder>
+  <folder name="images">
+    <file name="shutterstock_220344904-min-e1494592695396-u150-fr.png" crc="3901931987" ref="index:mmp:ani:vat"/>
+    <file name="image09_en-crop-u140.png" crc="420422314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mea-animation.jpg" crc="288570" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image09_en-crop-u639.png" crc="420422314" seo="true" ref="mmp">
+      <caption webpage="mmp" alt=""/>
+    </file>
+    <file name="f164kbfz95.jpg" crc="68869154" ref="mmp">
+      <caption webpage="mmp" alt=""/>
+    </file>
+    <file name="image09_en-crop-u660.png" crc="420422314" seo="true" ref="ani">
+      <caption webpage="ani" alt=""/>
+    </file>
+    <file name="1493193717-portfolio-.jpg" crc="3993637499" ref="ani">
+      <caption webpage="ani" alt=""/>
+    </file>
+    <file name="image09_en-crop-u670.png" crc="420422314" seo="true" ref="vat">
+      <caption webpage="vat" alt=""/>
+    </file>
+    <file name="visual_game_programming_hero_1300x600.jpg" crc="59840272" ref="vat">
+      <caption webpage="vat" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="270712405" seo="true" mt="1517967800563" redirect="true"/>
+  <file name="mmp.html" crc="3802208216" seo="true" mt="1517967818807" redirect="true"/>
+  <file name="ani.html" crc="279729996" seo="true" mt="1517967827036" redirect="true"/>
+  <file name="vat.html" crc="4034756088" seo="true" mt="1517967839794" redirect="true"/>
+</manifest>
